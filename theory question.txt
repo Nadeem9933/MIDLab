@@ -1,0 +1,1 @@
+we can sset a timmer at the server end that will upate the dta storeed in local db. After a specific time prices will be updted for exapmle after one day
